@@ -1,0 +1,8 @@
+{
+  "crons": [
+    {
+      "path": "/api/watch_readme_notify.py",
+      "schedule": "*/5 * * * *"
+    }
+  ]
+}
